@@ -1,7 +1,2 @@
 #!/bin/bash
-
-ls -l *.sh
-mv *.sh tmp
-chmod +x tmp/*.sh
-ls -l tmp/*.sh
-
+echo "hola mundo"
